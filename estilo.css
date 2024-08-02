@@ -1,5 +1,5 @@
 body {
-    background: rgb(226, 218, 164);
+    background: rgb(230, 227, 206);
     color: rgb(0, 0, 0);
     text-align: center;
 }
@@ -8,25 +8,28 @@ body {
     background: rgb(255, 255, 255);
     padding: 100px;
     margin: 20px;
+    text-align: center;
 }
 .Segunda {
-    background-color: rgb(42, 70, 140);
+    background-color: rgb(157, 157, 157);
     text-align: center;
     padding-top: 200px;
     padding-bottom: 200px;
     padding-left: 50px;
     padding-right: 50px;
     margin: 20px;
+    text-align: right;
 
 }
 .Tercera {
-    background-color: rgb(51, 142, 105);
+    background-color: rgb(73, 203, 151);
     text-align: center;
     padding-left: 50px;
     padding-right: 100px;
     padding-top: 25px;
     padding-bottom: 200px;
     margin: 20px;
+    text-align: left;
 
     
     
